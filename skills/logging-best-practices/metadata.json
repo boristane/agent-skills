@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "boristane",
+  "date": "2025-01-20",
+  "abstract": "Logging best practices focused on wide events (canonical log lines), high cardinality data, environment context, single logger pattern, and middleware-based logging infrastructure.",
+  "references": [
+    "https://loggingsucks.com",
+    "https://boristane.com/blog/observability-wide-events-101/",
+    "https://stripe.com/blog/canonical-log-lines"
+  ]
+}
