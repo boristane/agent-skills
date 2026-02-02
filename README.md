@@ -1,6 +1,6 @@
 # Agent Skills
 
-A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.
+A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities. Works with Claude Code, AdaL, and other AI coding agents.
 
 Skills follow the [Agent Skills](https://agentskills.io/) format.
 
